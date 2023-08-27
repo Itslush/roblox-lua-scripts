@@ -1,4 +1,5 @@
 -- // original code by isso i just added a flight toggle lol
+-- // bypasses most fly anticheats that rectify you
 
 local user_input_service: UserInputService = game:GetService("UserInputService")
 local run_service: RunService = game:GetService("RunService")
